@@ -49,6 +49,7 @@ const mitali = {
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
 [![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com)
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://figma.com)
 
 </div>
 
@@ -68,6 +69,26 @@ const mitali = {
 
 </div>
 
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech Stack | Live |
+|--------|-------------|------------|------|
+| 🎨 **[Project 1](https://github.com/your-username/project1)** | A responsive portfolio website | HTML, CSS, JS | [Live ↗](https://link.com) |
+| 🛒 **[Project 2](https://github.com/your-username/project2)** | E-commerce UI clone | React, Tailwind | [Live ↗](https://link.com) |
+| 🌐 **[Project 3](https://github.com/your-username/project3)** | Landing page with animations | HTML, CSS | [Live ↗](https://link.com) |
+
+> 💡 *Replace above with your actual projects!*
+
+---
+
+## 📅 What I'm Focusing On
+
+- [ ] 🔨 Building **3 real-world projects** for my portfolio
+- [ ] 📚 Completing **JavaScript 30** challenge
+- [ ] 🧩 Learning **React hooks** in depth
+- [ ] 💼 Applying for **frontend internships / jobs**
 
 ---
 
@@ -78,6 +99,32 @@ const mitali = {
 ![Trophies](https://github-profile-trophy.vercel.app/?username=MitaliRakholiya12&theme=tokyonight&no-frame=true&row=1&column=6)
 
 </div>
+
+---
+
+## ✨ Fun Facts About Me
+
+> 🎨 I spend more time picking the perfect color palette than writing actual code
+>
+> ☕ My best code is written after chai, not coffee
+>
+> 🌙 I debug better at night — bugs are scared of the dark
+>
+> 📱 I always check how a website looks on mobile first
+>
+> 🎯 I believe good UI is invisible — users just *feel* it
+
+---
+
+## 🐍 My Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/MitaliRakholiya12/MitaliRakholiya12/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+
+</div>
+
+> ⚙️ *Snake enable karne ke liye neeche steps follow karo!*
 
 ---
 
