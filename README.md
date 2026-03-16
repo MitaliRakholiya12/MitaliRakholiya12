@@ -71,26 +71,7 @@ const mitali = {
 
 ---
 
-## 🚀 Featured Projects
 
-| Project | Description | Tech Stack | Live |
-|--------|-------------|------------|------|
-| 🎨 **[Project 1](https://github.com/your-username/project1)** | A responsive portfolio website | HTML, CSS, JS | [Live ↗](https://link.com) |
-| 🛒 **[Project 2](https://github.com/your-username/project2)** | E-commerce UI clone | React, Tailwind | [Live ↗](https://link.com) |
-| 🌐 **[Project 3](https://github.com/your-username/project3)** | Landing page with animations | HTML, CSS | [Live ↗](https://link.com) |
-
-> 💡 *Replace above with your actual projects!*
-
----
-
-## 📅 What I'm Focusing On
-
-- [ ] 🔨 Building **3 real-world projects** for my portfolio
-- [ ] 📚 Completing **JavaScript 30** challenge
-- [ ] 🧩 Learning **React hooks** in depth
-- [ ] 💼 Applying for **frontend internships / jobs**
-
----
 
 ## 🏆 GitHub Trophies
 
