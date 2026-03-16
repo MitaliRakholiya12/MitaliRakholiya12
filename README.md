@@ -124,7 +124,6 @@ const mitali = {
 
 </div>
 
-> ⚙️ *Snake enable karne ke liye neeche steps follow karo!*
 
 ---
 
