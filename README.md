@@ -52,7 +52,7 @@ const mitali = {
 [![Framer Motion](https://img.shields.io/badge/Framer_Motion-EF0083?style=for-the-badge&logo=framer&logoColor=white)](https://www.framer.com/motion)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
 [![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com)
-[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://figma.com)
+
 
 </div>
 
