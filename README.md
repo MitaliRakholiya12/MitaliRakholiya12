@@ -47,8 +47,12 @@ const mitali = {
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org)
+[![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com)
+[![Framer Motion](https://img.shields.io/badge/Framer_Motion-EF0083?style=for-the-badge&logo=framer&logoColor=white)](https://www.framer.com/motion)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
 [![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com)
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://figma.com)
 
 </div>
 
@@ -71,6 +75,19 @@ const mitali = {
 ---
 
 
+## 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Description | Tech Stack | Repo |
+|--------|-------------|------------|------|
+| 👟 **Sneakers Store** | Dark-themed e-commerce UI with product showcase & size selector | HTML, CSS | [![Repo](https://img.shields.io/badge/Code-181717?style=flat&logo=github&logoColor=white)](https://github.com/MitaliRakholiya12/sneakers-website) |
+| 🤖 **AI Website Builder** | Generate websites from natural language prompts with modern UI | React, Vite, Tailwind, Framer Motion | [![Repo](https://img.shields.io/badge/Code-181717?style=flat&logo=github&logoColor=white)](https://github.com/MitaliRakholiya12/prompt-ai-website-builder) |
+| 💰 **FinTech Services** | Government schemes, budgeting tools & loan management app | Node.js, Express, EJS, Tailwind, Chart.js | [![Repo](https://img.shields.io/badge/Code-181717?style=flat&logo=github&logoColor=white)](https://github.com/MitaliRakholiya12/fintech-services) |
+
+</div>
+
+---
 
 ## 🏆 GitHub Trophies
 
@@ -103,6 +120,7 @@ const mitali = {
 <img src="https://raw.githubusercontent.com/MitaliRakholiya12/MitaliRakholiya12/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
 
 </div>
+
 
 
 ---
