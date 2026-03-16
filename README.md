@@ -81,9 +81,9 @@ const mitali = {
 
 | Project | Description | Tech Stack | Repo |
 |--------|-------------|------------|------|
-| 👟 **Sneakers Store** | Dark-themed e-commerce UI with product showcase & size selector | HTML, CSS | [![Repo](https://img.shields.io/badge/Code-181717?style=flat&logo=github&logoColor=white)](https://github.com/MitaliRakholiya12/sneakers-website) |
+| 👟 **Sneakers Store** | Dark-themed e-commerce UI with product showcase & size selector | HTML, CSS | [![Repo](https://img.shields.io/badge/Code-181717?style=flat&logo=github&logoColor=white)](https://github.com/MitaliRakholiya12/Shhoes-Shop) |
 | 🤖 **AI Website Builder** | Generate websites from natural language prompts with modern UI | React, Vite, Tailwind, Framer Motion | [![Repo](https://img.shields.io/badge/Code-181717?style=flat&logo=github&logoColor=white)](https://github.com/MitaliRakholiya12/prompt-ai-website-builder) |
-| 💰 **FinTech Services** | Government schemes, budgeting tools & loan management app | Node.js, Express, EJS, Tailwind, Chart.js | [![Repo](https://img.shields.io/badge/Code-181717?style=flat&logo=github&logoColor=white)](https://github.com/MitaliRakholiya12/fintech-services) |
+| 💰 **FinTech Services** | Government schemes, budgeting tools & loan management app | Node.js, Express, EJS, Tailwind, Chart.js | [![Repo](https://img.shields.io/badge/Code-181717?style=flat&logo=github&logoColor=white)](https://github.com/MitaliRakholiya12/FinTech) |
 
 </div>
 
